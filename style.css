@@ -40,13 +40,13 @@ header {
 }
 
 .kinopoisk {
-    width: 223px;
-    height: 58px;
+    width: 200px;
+    height: 40px;
 
     font-style: normal;
     font-weight: 400;
-    font-size: 48px;
-    line-height: 58px;
+    font-size: 40px;
+    line-height: 110px;
     /* identical to box height */
 
     color: black;
@@ -69,6 +69,7 @@ main {
     font-weight: 400;
     font-size: 15px;
     line-height: 58px;
+    text-align: center;
 
     color: white;
     text-shadow: 6px 6px 8px rgba(0, 0, 0, 0.6);
@@ -372,9 +373,10 @@ main {
     font-weight: 400;
     font-size: 15px;
     line-height: 58px;
+    text-align: center;
+    margin-top: 200px;
     /* identical to box height */
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
-    margin-left: 20px;
 }
 
 iframe {
@@ -382,7 +384,7 @@ iframe {
 }
 
 .akteri-ozvuchki {
-    width: 712px;
+    
     height: 58px;
 
   
