@@ -669,3 +669,31 @@ footer {
     object-fit: cover;
     pointer-events: none;
 }
+
+.quiz {
+    margin-top: 200px;
+}
+
+.opros {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+.question1 {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.question2 {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.otpravit {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+}
